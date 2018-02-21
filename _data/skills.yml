@@ -1,0 +1,16 @@
+# Skills
+# Donut design
+- skill: Datacenter Infrastructure Management
+  description: Planning | Installation | Troubleshooting | Large scale datacenter deployments | Cabling | DCIM best practices | Server hardware | Firmware | RAID | Power distribution units | Cooling | Air flow | Monitoring | Maintaining high availability | Working with vendors | Cost analysis | Financial audits | Retirements | Asset Management | Support tickets | Routers | Switches | Reporting
+
+# Sys admin
+- skill: System Administration
+  description: Linux | Windows | Incident response | Configuration Management | Troubleshooting | Monitoring | Logging | Files and storage | Software deployment | Maintenance | Documentation | Virtualization (KVM, Xen) | Databases (MySQL, MSSQL) SALT | Jenkins | Postgres | VMWare | Apache | NGINX
+
+# Development
+- skill: Development
+  description: Scripting (Bash, VBScript) | C++ | HTML | CSS | ColdFusion | Perl | Powershell | Python
+
+#PM
+- skill: Project Management
+  description: Agile methodology | Basecamp | JIRA | Team foundation server
