@@ -5,12 +5,12 @@
 
 # Sys admin
 - skill: System Administration
-  description: Linux | Windows | Incident response | Configuration Management | Troubleshooting | Monitoring | Logging | Files and storage | Software deployment | Maintenance | Documentation | Virtualization (KVM, Xen) | Databases (MySQL, MSSQL) SALT | Jenkins | Postgres | VMWare | Apache | NGINX
+  description: Linux | Windows | Incident response | Configuration Management | Troubleshooting | Monitoring | Logging | Files and storage | Software deployment | Maintenance | Documentation | Virtualization (KVM, Xen, VMWare) | Databases (MySQL, MSSQL, Postgres) | Automation (SALT, Jenkins) | Apache | NGINX
 
 # Development
 - skill: Development
-  description: Scripting (Bash, VBScript) | C++ | HTML | CSS | ColdFusion | Perl | Powershell | Python
+  description: Scripting (Bash, Python, Perl, VBScript) | C++ | HTML | CSS | ColdFusion 
 
 #PM
 - skill: Project Management
-  description: Agile methodology | Basecamp | JIRA | Team foundation server
+  description: Scrum / Agile | Basecamp | JIRA | Team Foundation Server
